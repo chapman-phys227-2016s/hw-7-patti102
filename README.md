@@ -1,8 +1,8 @@
 # PHYS227 HW 7
 
-**Author:** _\<your name\>_
+**Author:** Taylor Patti
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-7-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-7-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-7-patti102.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-7-patti102)
 
 **Due date:** 2016/04/05
 
@@ -19,7 +19,7 @@ Finally, to cleanly present your work, create a Jupyter notebook ```hw7.ipynb```
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+I think that this assignment was at least one question too long. Understanding and vectorizing the Polynomial class was no quick task. Honestly, the whole thing took me 6 or 7 hours. Now that I read that back to myself, that sounds kind of whiny. 6 and 7 hours isn't that long for a week's worth of homework, just kind of long. Anyways, it was a good assignment. But, since we all got it wrong anyways, can we go over improving efficiency for vectorized functions and/or dictionary functions in class? Okay, that's all I have to say.
 
 ## Honor Pledge
 
@@ -28,6 +28,8 @@ I pledge that all the work in this repository is my own with only the following 
 * Content of starter files supplied by the instructor;
 * Code borrowed from another source, documented with correct attribution in the code and summarized here.
 
+I looked up my error codes on the internet. This is what I always do.
+
 Signed,
 
-_\<your name\>_
+Taylor Patti
